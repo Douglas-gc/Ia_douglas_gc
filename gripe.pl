@@ -1,0 +1,29 @@
+%Jose Javier Mendoza Gutierrez
+%Douglas Gutierrez Cuñaca
+%Marco Antonio  Calizaya Laura
+%
+%
+sintoma(fiebre, gripe).
+sintoma(escalofrios, gripe).
+sintoma(dolor_cabeza, gripe).
+sintoma(dolor_muscular, gripe).
+sintoma(fatiga, gripe).
+sintoma(tos, gripe).
+sintoma(dolor_garganta, gripe).
+sintoma(congestion_nasal, gripe).
+sintoma(perdida_apetito, gripe).
+sintoma(ojos_dolorosos, gripe).
+sintoma(nauseas, gripe).
+sintoma(vomitos, gripe).
+sintoma(diarrea, gripe).
+
+
+medicamento(paracetamol, gripe).
+medicamento(ibuprofeno, gripe).
+medicamento(singani, gripe).
+medicamento(vitagrip, gripe).
+medicamento(aliviol, gripe).
+medicamento(aspirina, gripe).
+medicamento(antigripales_comerciales, gripe).
+medicamento(descanso, gripe).
+medicamento(hidratacion, gripe).
